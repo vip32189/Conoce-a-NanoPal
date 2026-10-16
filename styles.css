@@ -55,7 +55,7 @@ h1 em { color: var(--cream); font-style: normal; text-shadow: 4px 4px 0 rgba(22,
 .cta-dark { background: var(--ink); }
 .cta-gold { color: var(--ink); background: #ffe36e; border: 2px solid rgba(22,22,22,.78); box-shadow: 0 10px 0 rgba(22,22,22,.13), 0 0 0 5px rgba(255,227,110,.28); animation: attention-pulse 2.8s ease-in-out infinite; }
 .cta-gold:hover { box-shadow: 0 15px 28px rgba(61,45,0,.22), 0 0 0 6px rgba(255,227,110,.38); animation-play-state: paused; }
-.cta-beta { color: var(--ink); background: #fff4bc; border: 2px solid rgba(22,22,22,.64); box-shadow: 0 7px 0 rgba(22,22,22,.11); }
+.cta-beta { color: var(--ink); background: #ffffff; border: 2px solid rgba(22,22,22,.64); box-shadow: 0 7px 0 rgba(22,22,22,.11); }
 .cta-beta:hover { box-shadow: 0 13px 24px rgba(61,45,0,.2), 0 0 0 4px rgba(255,244,188,.55); }
 .cta-icon { flex: 0 0 37px; width: 37px; height: 37px; display: grid; place-items: center; border: 1px solid rgba(255,255,255,.3); border-radius: 11px; font-size: 24px; line-height: 1; }
 .cta-gold .cta-icon { border-color: rgba(22,22,22,.25); }
